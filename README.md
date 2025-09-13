@@ -29,7 +29,7 @@ A powerful application for checking Snapchat username availability with multiple
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/snapchat-username-checker.git
+git clone https://github.com/9rfm/snapchat-username-checker.git
 cd snapchat-username-checker
 ```
 
