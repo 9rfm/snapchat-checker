@@ -140,6 +140,3 @@ If you encounter issues:
 
 Current version: 1.0.0
 
----
-
-**Note**: This tool is not affiliated with or endorsed by Snapchat Inc. Use responsibly and in accordance with all applicable laws and terms of service.
